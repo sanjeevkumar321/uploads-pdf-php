@@ -1,2 +1,2 @@
 <?php
-$con=mysqli_connect("localhost","root","","dj");
+$con=mysqli_connect("localhost","<user-name>","<password>","<database>");
